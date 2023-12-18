@@ -1,5 +1,5 @@
 # INSTAGRAM Websitesini Klonlama - Bootstrap Projesi
- Patika.dev projelerinden biri daha. Bootstrap ile İnstagram sosyal medya sitesinin kopyasını tasarladım. Verilen tasarım taslağı üzerinden düzenlemelerle yeniden oluşturdum.
+ Bootstrap ile Instagram sosyal medya sitesinin kopyasını yeniden tasarladım.
 
 ![](https://github.com/ulkuhos/instagram-clone-project-bootstrap/blob/main/assets/img/instagramproject1.JPG)
 ---
